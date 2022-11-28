@@ -1,0 +1,8 @@
+@misc{cryptoeprint:2022/1546,
+      author = {John Gaspoz and Siemen Dhooghe},
+      title = {Threshold Implementations in Software: Micro-architectural Leakages in Algorithms},
+      howpublished = {Cryptology ePrint Archive, Paper 2022/1546},
+      year = {2022},
+      note = {\url{https://eprint.iacr.org/2022/1546}},
+      url = {https://eprint.iacr.org/2022/1546}
+}
